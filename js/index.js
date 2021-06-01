@@ -1,1 +1,2 @@
-var a = 100
+var a = 101
+var b = 2

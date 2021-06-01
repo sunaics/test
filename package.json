@@ -1,5 +1,6 @@
 {
-    "name": "test",
+    "name": "tests",
+    "age": "10",
     "version": "1.0.1",
     "description": "",
     "main": "index.js",
